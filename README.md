@@ -16,3 +16,7 @@ Tech Stack
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-000000?logo=yahoo&logoColor=white)
+![Backtrader](https://img.shields.io/badge/Backtrader-1E90FF?logo=python&logoColor=white)
+![QuantLib](https://img.shields.io/badge/QuantLib-003366?logo=quantconnect&logoColor=white)
+![Numba](https://img.shields.io/badge/Numba-00A3E0?logo=python&logoColor=white)

@@ -15,4 +15,4 @@ Tech Stack
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Kafka](https://skillicons.dev/icons?i=kafka)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)

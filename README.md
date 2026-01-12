@@ -1,4 +1,15 @@
-Tech Stack
+
+Reliability-focused engineer with a strong background in distributed systems, cloud-native infrastructure, and quantitative computing.  
+Experienced in building, operating, and scaling high-availability platforms with an emphasis on automation, observability, and performance.
+
+###  Core Focus
+- Production Kubernetes & Cloud Infrastructure
+- Observability, Monitoring & Incident Response
+- Automation & Infrastructure as Code
+- High-Performance & Low-Latency Systems
+- Streaming & Data Pipelines (Kafka)
+- Quantitative & ML Infrastructure
+
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)

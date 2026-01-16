@@ -17,3 +17,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?logo=clickhouse&logoColor=black)
+![Elastic](https://img.shields.io/badge/Elastic-005571?logo=elasticsearch&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white)
+![Consul](https://img.shields.io/badge/Consul-F24C53?logo=consul&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?logo=grpc&logoColor=white)

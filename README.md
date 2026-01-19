@@ -16,5 +16,3 @@
 ![QuantLib](https://img.shields.io/badge/QuantLib-003366?logo=quantconnect&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-
-

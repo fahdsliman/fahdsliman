@@ -17,6 +17,5 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white)
 
 

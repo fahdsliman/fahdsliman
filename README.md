@@ -14,8 +14,5 @@
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
 ![yfinance](https://img.shields.io/badge/yfinance-000000?logo=yahoo&logoColor=white)
 ![QuantLib](https://img.shields.io/badge/QuantLib-003366?logo=quantconnect&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-
-

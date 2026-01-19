@@ -10,7 +10,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
 ![yfinance](https://img.shields.io/badge/yfinance-000000?logo=yahoo&logoColor=white)
 ![QuantLib](https://img.shields.io/badge/QuantLib-003366?logo=quantconnect&logoColor=white)

@@ -11,6 +11,10 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
-
-
-
+![OpenBB](https://img.shields.io/badge/OpenBB-111111?logo=openbb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Yahoo%20Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2?logo=yahoo&logoColor=white)
+![vectorbt](https://img.shields.io/badge/vectorbt-1F2937?logo=python&logoColor=white)
+![Zipline](https://img.shields.io/badge/Zipline-1F2937?logo=python&logoColor=white)
+![QuantLib](https://img.shields.io/badge/QuantLib-1F2937?logo=cplusplus&logoColor=white)
+![Interactive%20Brokers](https://img.shields.io/badge/Interactive%20Brokers-004A7C?logoColor=white)

@@ -13,5 +13,4 @@
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Yahoo%20Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2?logo=yahoo&logoColor=white)
-![vectorbt](https://img.shields.io/badge/vectorbt-1F2937?logo=python&logoColor=white)
 ![QuantLib](https://img.shields.io/badge/QuantLib-1F2937?logo=cplusplus&logoColor=white)
